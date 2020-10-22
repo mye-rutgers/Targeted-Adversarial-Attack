@@ -10,6 +10,8 @@
 #   MAX_EPSILON - maximum allowed L_{\infty} norm of adversarial perturbation
 #
 
+cd /app/Targeted-Adversarial-Attack
+
 INPUT_DIR=$1
 OUTPUT_DIR=$2
 MAX_EPSILON=$3
